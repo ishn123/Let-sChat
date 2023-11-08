@@ -12,7 +12,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Database:** Mongo DB
   
 ## Demo
-[Preview](https://mern-chat-app-4rwd.vercel.app/)
+[Preview](https://let-s-chat-five.vercel.app/)
 ## Run Locally
 
 Clone the project
